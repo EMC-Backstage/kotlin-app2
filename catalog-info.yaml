@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kotlin-app2
+  description: kotlin project using spring boot 
+  tags:
+    - kotlin
+    - spring-boot
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: EMC-Backstage/kotlin-app2
+spec:
+  type: language
+  lifecycle: experimental
+  owner: EMC-Backstage
+  system: andriod language
