@@ -1,4 +1,4 @@
-# Spring Boot Kotlin sample project
+# kotlin project using spring boot
 
 This is the source code for a sample Spring Boot application developed with Kotlin and Spring Data JDBC.
 
