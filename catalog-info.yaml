@@ -11,6 +11,6 @@ metadata:
     github.com/project-slug: EMC-Backstage/kotlin-app2
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: pilot
   owner: frontend-team
   system: android-platform
