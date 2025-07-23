@@ -13,4 +13,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: frontend-team
-  system: andriod-platform
+  system: android-platform
