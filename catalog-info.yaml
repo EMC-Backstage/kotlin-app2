@@ -10,7 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/kotlin-app2
 spec:
-  type: language
+  type: service
   lifecycle: experimental
   owner: frontend-team
-  system: andriod language
+  system: andriod-platform
