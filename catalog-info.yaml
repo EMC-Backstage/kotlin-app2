@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: kotlin-app2
+  name: demo-service
   description: kotlin project using spring boot 
   tags:
     - kotlin
